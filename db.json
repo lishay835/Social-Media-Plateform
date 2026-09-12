@@ -1,0 +1,1040 @@
+{
+  "currentUser": {
+    "id": "u_ayesha",
+    "name": "Alishba Javed",
+    "handle": "lishay",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ayesha&backgroundColor=b6e3f4,c0aede,d1d4f9",
+    "cover": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+    "bio": "Product Designer & Digital Creator 🎨 | Coffee Enthusiast ☕ | Exploring the intersection of art & tech",
+    "location": "Lahore, Pakistan",
+    "stats": {
+      "posts": 20,
+      "followers": "2.4K",
+      "following": 312
+    },
+    "isOnline": true,
+    "lastSeen": null
+  },
+  "users": [
+    {
+      "id": "u_abhinav",
+      "name": "Abhinav Khare",
+      "handle": "abhinavkhare",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Abhinav&backgroundColor=c0aede,b6e3f4",
+      "cover": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "bio": "UI Designer | Traveler | Lifestyle Blogger",
+      "location": "Dubai, UAE",
+      "stats": {
+        "posts": 472,
+        "followers": "12.4K",
+        "following": 228
+      },
+      "storyHighlights": [
+        {
+          "id": "sh_1",
+          "title": "Garden",
+          "icon": "🌿",
+          "bg": "#D4EDDA"
+        },
+        {
+          "id": "sh_2",
+          "title": "Cameras",
+          "icon": "📷",
+          "bg": "#CCE5FF"
+        },
+        {
+          "id": "sh_3",
+          "title": "Wildlife",
+          "icon": "🦁",
+          "bg": "#FFF3CD"
+        }
+      ],
+      "isOnline": true,
+      "lastSeen": null
+    },
+    {
+      "id": "u_hamza",
+      "name": "Hamza Ali",
+      "handle": "hamzaali",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Hamza&backgroundColor=d1d4f9",
+      "cover": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "bio": "Software Architect & Open Source Contributor 🚀",
+      "location": "Islamabad, Pakistan",
+      "mutualFriends": 5,
+      "isOnline": true,
+      "lastSeen": null
+    },
+    {
+      "id": "u_zainab",
+      "name": "Zainab Fatima",
+      "handle": "zainabfatima",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Zainab&backgroundColor=ffd5dc",
+      "cover": "linear-gradient(135deg, #5ee7df 0%, #b490ca 100%)",
+      "bio": "Visual Artist & UI/UX Specialist ✨",
+      "location": "Karachi, Pakistan",
+      "mutualFriends": 3,
+      "isOnline": true,
+      "lastSeen": null
+    },
+    {
+      "id": "u_usman",
+      "name": "Usman Tariq",
+      "handle": "usmantariq",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Usman&backgroundColor=b6e3f4",
+      "cover": "linear-gradient(135deg, #c471f5 0%, #fa71cd 100%)",
+      "bio": "Landscape Photographer & Drone Pilot 🚁",
+      "location": "Hunza, Pakistan",
+      "mutualFriends": 8,
+      "isOnline": true,
+      "lastSeen": null
+    },
+    {
+      "id": "u_hira",
+      "name": "Hira Saeed",
+      "handle": "hirasaeed",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Hira&backgroundColor=ffdfba",
+      "cover": "linear-gradient(135deg, #48c6ef 0%, #6f86d6 100%)",
+      "bio": "Brand Strategist & Podcaster 🎙️",
+      "location": "Lahore, Pakistan",
+      "mutualFriends": 3,
+      "isOnline": false,
+      "lastSeen": "15 min ago"
+    },
+    {
+      "id": "u_ahmad",
+      "name": "Ahmad Raza",
+      "handle": "ahmadraza",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ahmad&backgroundColor=c0aede",
+      "cover": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "bio": "Frontend Engineer @ CloudTech 💻",
+      "location": "Rawalpindi, Pakistan",
+      "mutualFriends": 4,
+      "isOnline": true,
+      "lastSeen": null
+    },
+    {
+      "id": "u_sara",
+      "name": "Sara Khan",
+      "handle": "sarakhan",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sara&backgroundColor=b6e3f4",
+      "cover": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
+      "bio": "Fashion Influencer & Content Creator 👗",
+      "location": "Dubai, UAE",
+      "mutualFriends": 6,
+      "isOnline": true,
+      "lastSeen": null
+    },
+    {
+      "id": "u_sonya",
+      "name": "Sonya Lee",
+      "handle": "sonyalee",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sonya&backgroundColor=ffd5dc",
+      "cover": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
+      "bio": "Travel Vlogger • Wandering the globe ✈️",
+      "location": "Dubai, UAE",
+      "mutualFriends": 12,
+      "isOnline": true,
+      "lastSeen": null
+    },
+    {
+      "id": "u_nicole",
+      "name": "Nicole Segorta",
+      "handle": "nicolesegorta",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nicole&backgroundColor=d1d4f9",
+      "cover": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "bio": "Architecture & Street Life Curator 🏛️",
+      "location": "Porto, Portugal",
+      "mutualFriends": 9,
+      "isOnline": false,
+      "lastSeen": "1 hour ago"
+    }
+  ],
+  "posts": [
+    {
+      "id": "post_1788981126996",
+      "authorId": "u_ayesha",
+      "authorName": "Alishba Javed",
+      "authorHandle": "lishay",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ayesha&backgroundColor=b6e3f4,c0aede,d1d4f9",
+      "location": "Lahore, Pakistan",
+      "createdAt": "Just now",
+      "createdAtTimestamp": 1788981126996,
+      "caption": "hello girls",
+      "mediaUrl": null,
+      "mediaType": null,
+      "likes": [
+        "u_ayesha"
+      ],
+      "likedBySummary": "Liked by 1 person",
+      "comments": [],
+      "sharesCount": 0,
+      "savedBy": []
+    },
+    {
+      "id": "post_1788981049773",
+      "authorId": "u_ayesha",
+      "authorName": "Alishba Javed",
+      "authorHandle": "lishay",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ayesha&backgroundColor=b6e3f4,c0aede,d1d4f9",
+      "location": "Lahore, Pakistan",
+      "createdAt": "Just now",
+      "createdAtTimestamp": 1788981049773,
+      "caption": "hi",
+      "mediaUrl": null,
+      "mediaType": null,
+      "likes": [],
+      "likedBySummary": "0 likes",
+      "comments": [],
+      "sharesCount": 0,
+      "savedBy": []
+    },
+    {
+      "id": "post_1",
+      "authorId": "u_sonya",
+      "authorName": "Sonya Lee",
+      "authorHandle": "sonyalee",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sonya&backgroundColor=ffd5dc",
+      "location": "Dubai, UAE",
+      "createdAt": "2 hours ago",
+      "createdAtTimestamp": 1788937200000,
+      "caption": "You can never full my sparkle ✨ Taking in the golden sunshine and endless blue skies today. Life is beautiful when you pause to feel it.",
+      "mediaUrl": "/images/post_1.jpg",
+      "mediaType": "image",
+      "likes": [
+        "u_hamza",
+        "u_zainab",
+        "u_ahmad",
+        "u_ayesha"
+      ],
+      "likedBySummary": "Liked by Andrew and 354 others",
+      "comments": [
+        {
+          "id": "c_2",
+          "userId": "u_hamza",
+          "userName": "Hamza Ali",
+          "userAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Hamza&backgroundColor=d1d4f9",
+          "text": "Awesome vibes! Dubai looks magnificent.",
+          "createdAt": "45 min ago"
+        },
+        {
+          "id": "c_1788946084151",
+          "userId": "u_ayesha",
+          "userName": "Ayesha Khan",
+          "userAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ayesha&backgroundColor=b6e3f4,c0aede,d1d4f9",
+          "text": "Automated test comment: brilliant work!",
+          "createdAt": "Just now"
+        },
+        {
+          "id": "c_1788946330358",
+          "userId": "u_ayesha",
+          "userName": "Ayesha Khan",
+          "userAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ayesha&backgroundColor=b6e3f4,c0aede,d1d4f9",
+          "text": "nice",
+          "createdAt": "Just now"
+        },
+        {
+          "id": "c_1788980739583",
+          "userId": "u_ayesha",
+          "userName": "Ayesha Khan",
+          "userAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ayesha&backgroundColor=b6e3f4,c0aede,d1d4f9",
+          "text": "beautiful",
+          "createdAt": "Just now"
+        }
+      ],
+      "sharesCount": 14,
+      "savedBy": [
+        "u_ayesha"
+      ]
+    },
+    {
+      "id": "post_2",
+      "authorId": "u_nicole",
+      "authorName": "Nicole Segorta",
+      "authorHandle": "nicolesegorta",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nicole&backgroundColor=d1d4f9",
+      "location": "Korr Dari, UAE",
+      "createdAt": "3 hours ago",
+      "createdAtTimestamp": 1788933600000,
+      "caption": "Wandering through the vibrant streets lined with painted facades. Every corner tells a colorful tale! 🎨🏘️",
+      "mediaUrl": "/images/post_2.jpg",
+      "mediaType": "image",
+      "likes": [
+        "u_ayesha",
+        "u_usman",
+        "u_sara"
+      ],
+      "likedBySummary": "Liked by Andrew and 366 others",
+      "comments": [
+        {
+          "id": "c_3",
+          "userId": "u_sara",
+          "userName": "Sara Khan",
+          "userAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sara&backgroundColor=b6e3f4",
+          "text": "The colors are mesmerizing! Adding this place to my bucket list.",
+          "createdAt": "2 hours ago"
+        }
+      ],
+      "sharesCount": 8,
+      "savedBy": []
+    },
+    {
+      "id": "post_3",
+      "authorId": "u_abhinav",
+      "authorName": "Abhinav Khare",
+      "authorHandle": "abhinavkhare",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Abhinav&backgroundColor=c0aede",
+      "location": "Santorini, Greece",
+      "createdAt": "5 hours ago",
+      "createdAtTimestamp": 1788926400000,
+      "caption": "Chasing the Mediterranean golden hour. Sometimes getting lost is the best route. 🌅🕊️",
+      "mediaUrl": "/images/post_3.jpg",
+      "mediaType": "image",
+      "likes": [
+        "u_ayesha",
+        "u_hamza",
+        "u_hira",
+        "u_zainab"
+      ],
+      "likedBySummary": "Liked by Zainab and 412 others",
+      "comments": [
+        {
+          "id": "c_4",
+          "userId": "u_ayesha",
+          "userName": "Ayesha Khan",
+          "userAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ayesha&backgroundColor=b6e3f4",
+          "text": "Such a serene view Abhinav! Pure postcard aesthetic.",
+          "createdAt": "4 hours ago"
+        }
+      ],
+      "sharesCount": 21,
+      "savedBy": [
+        "u_ayesha"
+      ]
+    },
+    {
+      "id": "post_4",
+      "authorId": "u_usman",
+      "authorName": "Usman Tariq",
+      "authorHandle": "usmantariq",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Usman&backgroundColor=b6e3f4",
+      "location": "Passu Cones, Karakoram",
+      "createdAt": "7 hours ago",
+      "createdAtTimestamp": 1788919200000,
+      "caption": "Standing beneath these jagged cathedral peaks. Nature always reminds us how small we are in the grand tapestry of the universe. 🏔️✨",
+      "mediaUrl": "/images/post_4.jpg",
+      "mediaType": "image",
+      "likes": [
+        "u_ayesha",
+        "u_ahmad",
+        "u_sara",
+        "u_sonya"
+      ],
+      "likedBySummary": "Liked by Ahmad and 520 others",
+      "comments": [
+        {
+          "id": "c_5",
+          "userId": "u_ahmad",
+          "userName": "Ahmad Raza",
+          "userAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ahmad&backgroundColor=c0aede",
+          "text": "Breathtaking clarity! Did you shoot this with your telephoto lens?",
+          "createdAt": "6 hours ago"
+        }
+      ],
+      "sharesCount": 35,
+      "savedBy": [
+        "u_ayesha"
+      ]
+    },
+    {
+      "id": "post_5",
+      "authorId": "u_zainab",
+      "authorName": "Zainab Fatima",
+      "authorHandle": "zainabfatima",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Zainab&backgroundColor=ffd5dc",
+      "location": "Art District, Studio 7",
+      "createdAt": "9 hours ago",
+      "createdAtTimestamp": 1788912000000,
+      "caption": "Exploring textures, shadows, and subtle pastel palettes for the new exhibition. Art is when emotions find their silhouette. 🎨🖌️",
+      "mediaUrl": "/images/post_5.jpg",
+      "mediaType": "image",
+      "likes": [
+        "u_ayesha",
+        "u_hamza",
+        "u_hira"
+      ],
+      "likedBySummary": "Liked by Hamza and 280 others",
+      "comments": [],
+      "sharesCount": 11,
+      "savedBy": []
+    },
+    {
+      "id": "post_6",
+      "authorId": "u_sara",
+      "authorName": "Sara Khan",
+      "authorHandle": "sarakhan",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sara&backgroundColor=b6e3f4",
+      "location": "Downtown Bistro",
+      "createdAt": "11 hours ago",
+      "createdAtTimestamp": 1788904800000,
+      "caption": "Morning espresso rituals and crisp notebooks. Ready to turn fresh ideas into reality this week! ☕📖",
+      "mediaUrl": "/images/post_6.jpg",
+      "mediaType": "image",
+      "likes": [
+        "u_ayesha",
+        "u_zainab",
+        "u_sonya"
+      ],
+      "likedBySummary": "Liked by Sonya and 195 others",
+      "comments": [],
+      "sharesCount": 6,
+      "savedBy": []
+    },
+    {
+      "id": "post_7",
+      "authorId": "u_hamza",
+      "authorName": "Hamza Ali",
+      "authorHandle": "hamzaali",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Hamza&backgroundColor=d1d4f9",
+      "location": "Cyber Tower Labs",
+      "createdAt": "14 hours ago",
+      "createdAtTimestamp": 1788894000000,
+      "caption": "Just pushed the major v2 release of our open-source distributed event mesh! Massive gratitude to all 40+ global contributors. 💻⚡",
+      "mediaUrl": "/images/post_7.jpg",
+      "mediaType": "image",
+      "likes": [
+        "u_ayesha",
+        "u_ahmad",
+        "u_usman",
+        "u_abhinav"
+      ],
+      "likedBySummary": "Liked by Abhinav and 640 others",
+      "comments": [
+        {
+          "id": "c_6",
+          "userId": "u_ayesha",
+          "userName": "Ayesha Khan",
+          "userAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ayesha&backgroundColor=b6e3f4",
+          "text": "Congratulations Hamza! Huge milestone! 🎉",
+          "createdAt": "12 hours ago"
+        }
+      ],
+      "sharesCount": 42,
+      "savedBy": []
+    },
+    {
+      "id": "post_8",
+      "authorId": "u_hira",
+      "authorName": "Hira Saeed",
+      "authorHandle": "hirasaeed",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Hira&backgroundColor=ffdfba",
+      "location": "Sunset Boulevard",
+      "createdAt": "16 hours ago",
+      "createdAtTimestamp": 1788886800000,
+      "caption": "Episode 48 of the Creative Pulse podcast is live! Today we dive deep into building authentic community spaces in the modern digital era. 🎙️💡",
+      "mediaUrl": "/images/post_8.jpg",
+      "mediaType": "image",
+      "likes": [
+        "u_ayesha",
+        "u_zainab",
+        "u_sara"
+      ],
+      "likedBySummary": "Liked by Sara and 310 others",
+      "comments": [
+        {
+          "id": "c_1788980930006",
+          "userId": "u_ayesha",
+          "userName": "Alishba Javed",
+          "userAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ayesha&backgroundColor=b6e3f4,c0aede,d1d4f9",
+          "text": "yummy",
+          "createdAt": "Just now"
+        }
+      ],
+      "sharesCount": 19,
+      "savedBy": [
+        "u_ayesha"
+      ]
+    },
+    {
+      "id": "post_9",
+      "authorId": "u_ahmad",
+      "authorName": "Ahmad Raza",
+      "authorHandle": "ahmadraza",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ahmad&backgroundColor=c0aede",
+      "location": "Highlands Trail",
+      "createdAt": "18 hours ago",
+      "createdAtTimestamp": 1788879600000,
+      "caption": "Weekend summit hike completed. Nothing clears the mind like high elevation and fresh mountain air! 🌲🥾",
+      "mediaUrl": "/images/post_9.jpg",
+      "mediaType": "image",
+      "likes": [
+        "u_usman",
+        "u_hamza",
+        "u_ayesha"
+      ],
+      "likedBySummary": "Liked by Usman and 245 others",
+      "comments": [],
+      "sharesCount": 9,
+      "savedBy": [
+        "u_ayesha"
+      ]
+    },
+    {
+      "id": "post_10",
+      "authorId": "u_sonya",
+      "authorName": "Sonya Lee",
+      "authorHandle": "sonyalee",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sonya&backgroundColor=ffd5dc",
+      "location": "Coastal Oasis",
+      "createdAt": "1 day ago",
+      "createdAtTimestamp": 1788858000000,
+      "caption": "Soft waves crashing, gentle coastal breeze, and warm sand. Recharging the soul before the next big expedition. 🌊🌴",
+      "mediaUrl": "/images/post_10.jpg",
+      "mediaType": "image",
+      "likes": [
+        "u_ayesha",
+        "u_nicole",
+        "u_sara"
+      ],
+      "likedBySummary": "Liked by Nicole and 490 others",
+      "comments": [],
+      "sharesCount": 28,
+      "savedBy": []
+    },
+    {
+      "id": "post_11",
+      "authorId": "u_nicole",
+      "authorName": "Nicole Segorta",
+      "authorHandle": "nicolesegorta",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nicole&backgroundColor=d1d4f9",
+      "location": "Old Town Quarter",
+      "createdAt": "1 day ago",
+      "createdAtTimestamp": 1788850800000,
+      "caption": "Cobblestones and historical archways. There's magic in preserving the architectural charm of centuries past. 🏛️✨",
+      "mediaUrl": "/images/post_11.jpg",
+      "mediaType": "image",
+      "likes": [
+        "u_abhinav",
+        "u_zainab",
+        "u_ayesha"
+      ],
+      "likedBySummary": "Liked by Abhinav and 375 others",
+      "comments": [],
+      "sharesCount": 16,
+      "savedBy": []
+    },
+    {
+      "id": "post_12",
+      "authorId": "u_abhinav",
+      "authorName": "Abhinav Khare",
+      "authorHandle": "abhinavkhare",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Abhinav&backgroundColor=c0aede",
+      "location": "Skyline Observatory",
+      "createdAt": "2 days ago",
+      "createdAtTimestamp": 1788764400000,
+      "caption": "City lights coming to life as twilight settles over the metropolis. Never stop observing the small geometric harmonies around you. 🌆📐",
+      "mediaUrl": "/images/post_12.jpg",
+      "mediaType": "image",
+      "likes": [
+        "u_ayesha",
+        "u_hamza",
+        "u_sonya"
+      ],
+      "likedBySummary": "Liked by Hamza and 580 others",
+      "comments": [],
+      "sharesCount": 33,
+      "savedBy": []
+    },
+    {
+      "id": "post_13",
+      "authorId": "u_usman",
+      "authorName": "Usman Tariq",
+      "authorHandle": "usmantariq",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Usman&backgroundColor=b6e3f4",
+      "location": "Valley of Whispers",
+      "createdAt": "2 days ago",
+      "createdAtTimestamp": 1788757200000,
+      "caption": "Emerald waters mirroring the snow-capped summits. Incredible reflections captured early this morning. 💧🏔️",
+      "mediaUrl": "/images/post_13.jpg",
+      "mediaType": "image",
+      "likes": [
+        "u_ahmad",
+        "u_ayesha"
+      ],
+      "likedBySummary": "Liked by Ahmad and 410 others",
+      "comments": [],
+      "sharesCount": 20,
+      "savedBy": []
+    },
+    {
+      "id": "post_14",
+      "authorId": "u_zainab",
+      "authorName": "Zainab Fatima",
+      "authorHandle": "zainabfatima",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Zainab&backgroundColor=ffd5dc",
+      "location": "Gallery Central",
+      "createdAt": "3 days ago",
+      "createdAtTimestamp": 1788670800000,
+      "caption": "Monochrome and minimalism. Stripping away the excess leaves only the pure essence of form. 🖤🤍",
+      "mediaUrl": "/images/post_14.jpg",
+      "mediaType": "image",
+      "likes": [
+        "u_ayesha",
+        "u_hira",
+        "u_sara"
+      ],
+      "likedBySummary": "Liked by Hira and 298 others",
+      "comments": [],
+      "sharesCount": 12,
+      "savedBy": []
+    },
+    {
+      "id": "post_15",
+      "authorId": "u_sara",
+      "authorName": "Sara Khan",
+      "authorHandle": "sarakhan",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sara&backgroundColor=b6e3f4",
+      "location": "Botanical Greenhouse",
+      "createdAt": "3 days ago",
+      "createdAtTimestamp": 1788663600000,
+      "caption": "Surrounded by lush monsteras and tropical palms. Greenery is the sweetest antidote to screen fatigue. 🌿🪴",
+      "mediaUrl": "/images/post_15.jpg",
+      "mediaType": "image",
+      "likes": [
+        "u_ayesha",
+        "u_sonya",
+        "u_nicole"
+      ],
+      "likedBySummary": "Liked by Sonya and 340 others",
+      "comments": [],
+      "sharesCount": 15,
+      "savedBy": []
+    }
+  ],
+  "stories": [
+    {
+      "id": "story_1788981141826",
+      "authorId": "u_ayesha",
+      "authorName": "Alishba Javed",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ayesha&backgroundColor=b6e3f4,c0aede,d1d4f9",
+      "isOwn": true,
+      "mediaUrl": "/images/post_3.jpg",
+      "createdAt": 1788981141826,
+      "expiresAt": 1789067541826,
+      "views": []
+    },
+    {
+      "id": "story_1788981014395",
+      "authorId": "u_ayesha",
+      "authorName": "Alishba Javed",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ayesha&backgroundColor=b6e3f4,c0aede,d1d4f9",
+      "isOwn": true,
+      "mediaUrl": "/images/post_3.jpg",
+      "createdAt": 1788981014395,
+      "expiresAt": 1789067414395,
+      "views": []
+    },
+    {
+      "id": "story_1788980774071",
+      "authorId": "u_ayesha",
+      "authorName": "Ayesha Khan",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ayesha&backgroundColor=b6e3f4,c0aede,d1d4f9",
+      "isOwn": true,
+      "mediaUrl": "/images/post_3.jpg",
+      "createdAt": 1788980774070,
+      "expiresAt": 1789067174070,
+      "views": []
+    },
+    {
+      "id": "story_1788946696067",
+      "authorId": "u_ayesha",
+      "authorName": "Ayesha Khan",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ayesha&backgroundColor=b6e3f4,c0aede,d1d4f9",
+      "isOwn": true,
+      "mediaUrl": "/images/post_2.jpg",
+      "createdAt": 1788946696067,
+      "expiresAt": 1789033096067,
+      "views": []
+    },
+    {
+      "id": "story_1788946318024",
+      "authorId": "u_ayesha",
+      "authorName": "Ayesha Khan",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ayesha&backgroundColor=b6e3f4,c0aede,d1d4f9",
+      "isOwn": true,
+      "mediaUrl": "/images/post_4.jpg",
+      "createdAt": 1788946318024,
+      "expiresAt": 1789032718024,
+      "views": []
+    },
+    {
+      "id": "story_0",
+      "authorId": "u_ayesha",
+      "authorName": "Your story",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ayesha&backgroundColor=b6e3f4",
+      "isOwn": true,
+      "mediaUrl": "/images/post_1.jpg",
+      "createdAt": 1788940000000,
+      "expiresAt": 1789026400000,
+      "views": [
+        "u_hamza",
+        "u_zainab",
+        "u_sara"
+      ]
+    },
+    {
+      "id": "story_1",
+      "authorId": "u_sara",
+      "authorName": "Sara Khan",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sara&backgroundColor=b6e3f4",
+      "isOwn": false,
+      "mediaUrl": "/images/post_6.jpg",
+      "createdAt": 1788936000000,
+      "expiresAt": 1789022400000,
+      "views": [
+        "u_ayesha",
+        "u_hamza"
+      ]
+    },
+    {
+      "id": "story_2",
+      "authorId": "u_hamza",
+      "authorName": "Hamza Ali",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Hamza&backgroundColor=d1d4f9",
+      "isOwn": false,
+      "mediaUrl": "/images/post_7.jpg",
+      "createdAt": 1788932000000,
+      "expiresAt": 1789018400000,
+      "views": [
+        "u_ayesha"
+      ]
+    },
+    {
+      "id": "story_3",
+      "authorId": "u_usman",
+      "authorName": "Usman Tariq",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Usman&backgroundColor=b6e3f4",
+      "isOwn": false,
+      "mediaUrl": "/images/post_4.jpg",
+      "createdAt": 1788928000000,
+      "expiresAt": 1789014400000,
+      "views": [
+        "u_ayesha",
+        "u_ahmad"
+      ]
+    },
+    {
+      "id": "story_4",
+      "authorId": "u_hira",
+      "authorName": "Hira Saeed",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Hira&backgroundColor=ffdfba",
+      "isOwn": false,
+      "mediaUrl": "/images/post_8.jpg",
+      "createdAt": 1788924000000,
+      "expiresAt": 1789010400000,
+      "views": [
+        "u_ayesha"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "ev_1788946084214",
+      "title": "Global AI & Web Developers Summit",
+      "description": "Annual gathering of engineers, creators, and product visionaries.",
+      "date": "Fri, Oct 10, 2026",
+      "time": "2:00 PM",
+      "location": "Grand Convention Hall",
+      "category": "Nearby",
+      "attendeesCount": 1,
+      "attendees": [
+        "u_ayesha"
+      ],
+      "banner": "/images/post_4.jpg"
+    },
+    {
+      "id": "ev_1",
+      "title": "Friends Meetup",
+      "description": "A friendly meetup to spend some quality time together, catch up, and enjoy specialty coffees.",
+      "date": "Tue, Sep 16, 2026",
+      "time": "10:00 AM",
+      "location": "City Cafe, Downtown",
+      "category": "Nearby",
+      "attendeesCount": 11,
+      "attendees": [
+        "u_hamza",
+        "u_zainab",
+        "u_ahmad"
+      ],
+      "banner": "/images/post_2.jpg"
+    },
+    {
+      "id": "ev_2",
+      "title": "Online Study Session",
+      "description": "Join our collaborative hands-on study session and discussion on Distributed Systems and Architecture.",
+      "date": "Sat, Sep 17, 2026",
+      "time": "8:00 PM",
+      "location": "Google Meet / Discord",
+      "category": "Online",
+      "attendeesCount": 23,
+      "attendees": [
+        "u_ayesha",
+        "u_usman",
+        "u_hira",
+        "u_abhinav"
+      ],
+      "banner": "/images/post_3.jpg"
+    },
+    {
+      "id": "ev_3",
+      "title": "UI/UX Creative Jam",
+      "description": "Rapid prototyping sprint and portfolio review with senior design mentors and interactive designers.",
+      "date": "Fri, Sep 19, 2026",
+      "time": "5:30 PM",
+      "location": "Design Collective Studio",
+      "category": "This Week",
+      "attendeesCount": 35,
+      "attendees": [
+        "u_ayesha",
+        "u_zainab",
+        "u_abhinav"
+      ],
+      "banner": "/images/post_5.jpg"
+    }
+  ],
+  "conversations": [
+    {
+      "id": "conv_hamza",
+      "partnerId": "u_hamza",
+      "lastMessage": "Testing real-time message stream",
+      "lastMessageTimestamp": "02:28 PM",
+      "unread": 0
+    },
+    {
+      "id": "conv_zainab",
+      "partnerId": "u_zainab",
+      "lastMessage": "I loved the new palette you shared!",
+      "lastMessageTimestamp": "Yesterday",
+      "unread": 1
+    },
+    {
+      "id": "conv_usman",
+      "partnerId": "u_usman",
+      "lastMessage": "Sent you the raw camera files.",
+      "lastMessageTimestamp": "2 days ago",
+      "unread": 0
+    },
+    {
+      "id": "conv_hira",
+      "partnerId": "u_hira",
+      "lastMessage": "Thanks for tuning into the podcast!",
+      "lastMessageTimestamp": "Sep 5",
+      "unread": 0
+    }
+  ],
+  "messages": {
+    "conv_hamza": [
+      {
+        "id": "m_1",
+        "senderId": "u_hamza",
+        "text": "Hey! How are you?",
+        "timestamp": "2:30 PM"
+      },
+      {
+        "id": "m_2",
+        "senderId": "u_ayesha",
+        "text": "I'm good! How about you? 😊",
+        "timestamp": "2:31 PM"
+      },
+      {
+        "id": "m_3",
+        "senderId": "u_hamza",
+        "text": "I'm doing great! Are you attending the study session this weekend?",
+        "timestamp": "2:31 PM"
+      },
+      {
+        "id": "m_4",
+        "senderId": "u_ayesha",
+        "text": "Yes, absolutely! Really looking forward to it.",
+        "timestamp": "2:32 PM"
+      },
+      {
+        "id": "m_5",
+        "senderId": "u_hamza",
+        "text": "Sounds great! Let's sync up tomorrow.",
+        "timestamp": "2:32 PM"
+      },
+      {
+        "id": "m_1788946084358",
+        "senderId": "u_ayesha",
+        "text": "Testing real-time message stream",
+        "timestamp": "02:28 PM"
+      }
+    ],
+    "conv_zainab": [
+      {
+        "id": "m_6",
+        "senderId": "u_zainab",
+        "text": "Hey Ayesha! I loved the new palette you shared! Can you send the Figma link?",
+        "timestamp": "Yesterday"
+      }
+    ],
+    "conv_usman": [
+      {
+        "id": "m_7",
+        "senderId": "u_usman",
+        "text": "Sent you the raw camera files from the mountain trip!",
+        "timestamp": "2 days ago"
+      }
+    ],
+    "conv_hira": [
+      {
+        "id": "m_8",
+        "senderId": "u_hira",
+        "text": "Thanks for tuning into the podcast! Your comment made our day.",
+        "timestamp": "Sep 5"
+      }
+    ]
+  },
+  "notifications": [
+    {
+      "id": "notif_1788980930006",
+      "type": "COMMENT",
+      "receiverId": "u_hira",
+      "senderId": "u_ayesha",
+      "senderName": "Alishba Javed",
+      "senderAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ayesha&backgroundColor=b6e3f4,c0aede,d1d4f9",
+      "referenceId": "post_8",
+      "message": "commented: \"yummy...\"",
+      "createdAt": "Just now",
+      "isRead": false
+    },
+    {
+      "id": "notif_1788980739583",
+      "type": "COMMENT",
+      "receiverId": "u_sonya",
+      "senderId": "u_ayesha",
+      "senderName": "Ayesha Khan",
+      "senderAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ayesha&backgroundColor=b6e3f4,c0aede,d1d4f9",
+      "referenceId": "post_1",
+      "message": "commented: \"beautiful...\"",
+      "createdAt": "Just now",
+      "isRead": false
+    },
+    {
+      "id": "notif_1788946330358",
+      "type": "COMMENT",
+      "receiverId": "u_sonya",
+      "senderId": "u_ayesha",
+      "senderName": "Ayesha Khan",
+      "senderAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ayesha&backgroundColor=b6e3f4,c0aede,d1d4f9",
+      "referenceId": "post_1",
+      "message": "commented: \"nice...\"",
+      "createdAt": "Just now",
+      "isRead": false
+    },
+    {
+      "id": "notif_1788946322245",
+      "type": "LIKE",
+      "receiverId": "u_sonya",
+      "senderId": "u_ayesha",
+      "senderName": "Ayesha Khan",
+      "senderAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ayesha&backgroundColor=b6e3f4,c0aede,d1d4f9",
+      "referenceId": "post_1",
+      "message": "liked your post",
+      "createdAt": "Just now",
+      "isRead": false
+    },
+    {
+      "id": "notif_1788946194211",
+      "type": "FRIEND_REQUEST",
+      "receiverId": "u_abhinav",
+      "senderId": "u_ayesha",
+      "senderName": "Ayesha Khan",
+      "senderAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ayesha&backgroundColor=b6e3f4,c0aede,d1d4f9",
+      "message": "sent you a friend request",
+      "createdAt": "Just now",
+      "isRead": false,
+      "actionStatus": "pending"
+    },
+    {
+      "id": "notif_1788946084151",
+      "type": "COMMENT",
+      "receiverId": "u_sonya",
+      "senderId": "u_ayesha",
+      "senderName": "Ayesha Khan",
+      "senderAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ayesha&backgroundColor=b6e3f4,c0aede,d1d4f9",
+      "referenceId": "post_1",
+      "message": "commented: \"Automated test comment: brilli...\"",
+      "createdAt": "Just now",
+      "isRead": false
+    },
+    {
+      "id": "notif_1",
+      "type": "FRIEND_REQUEST",
+      "senderId": "u_hamza",
+      "senderName": "Hamza Ali",
+      "senderAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Hamza&backgroundColor=d1d4f9",
+      "message": "sent you a friend request",
+      "createdAt": "10 min ago",
+      "isRead": true,
+      "actionStatus": "rejected"
+    },
+    {
+      "id": "notif_2",
+      "type": "LIKE",
+      "senderId": "u_sonya",
+      "senderName": "Sonya Lee",
+      "senderAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sonya&backgroundColor=ffd5dc",
+      "message": "liked your recent post",
+      "createdAt": "45 min ago",
+      "isRead": true
+    },
+    {
+      "id": "notif_3",
+      "type": "COMMENT",
+      "senderId": "u_zainab",
+      "senderName": "Zainab Fatima",
+      "senderAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Zainab&backgroundColor=ffd5dc",
+      "message": "commented: \"Stunning shot Sonya! That lighting is...\"",
+      "createdAt": "2 hours ago",
+      "isRead": true
+    }
+  ],
+  "friendships": [
+    {
+      "user1": "u_ayesha",
+      "user2": "u_zainab",
+      "status": "accepted"
+    },
+    {
+      "user1": "u_ayesha",
+      "user2": "u_usman",
+      "status": "accepted"
+    },
+    {
+      "user1": "u_ayesha",
+      "user2": "u_sara",
+      "status": "accepted"
+    },
+    {
+      "user1": "u_ayesha",
+      "user2": "u_abhinav",
+      "status": "pending",
+      "requesterId": "u_ayesha"
+    }
+  ],
+  "follows": [
+    {
+      "followerId": "u_ayesha",
+      "followingId": "u_abhinav"
+    },
+    {
+      "followerId": "u_ayesha",
+      "followingId": "u_sonya"
+    },
+    {
+      "followerId": "u_ayesha",
+      "followingId": "u_nicole"
+    }
+  ]
+}
